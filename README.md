@@ -144,3 +144,6 @@ Fitur yang dinyatakan selesai harus berdasarkan hasil pengujian aplikasi, bukan 
 ---
 
 **Slashers — Your collection. Fully in control.**
+
+## Catatan
+Untuk jawaban 1 dan 2 dapat ditemukan pada bagian deskripsi dan latarbelakang. Jawaban 3 merupakan seluruh file Readme ini.
