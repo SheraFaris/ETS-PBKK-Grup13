@@ -1,8 +1,19 @@
 # Slashers — Game Store Management
 
-**Slashers** adalah aplikasi desktop berbasis Rich UI untuk mengelola katalog game, inventaris, pembelian stok, penjualan, riwayat transaksi, dan laporan. Aplikasi menggunakan identitas visual pixel-block dengan warna graphite, teal, amber, dan coral.
+## Deskripsi 
 
-Proyek ini dikembangkan untuk memenuhi Proyek ETS mata kuliah **Pemrograman Berbasis Kerangka Kerja (PBKK)**, yang mencakup Product Requirements Document (PRD), implementasi aplikasi desktop, serta video presentasi/demo.
+**Slashers** adalah aplikasi desktop berbasis Rich UI untuk mengelola katalog game, inventaris, pembelian stok, penjualan, riwayat transaksi, dan laporan. Aplikasi menggunakan identitas visual pixel-block dengan warna graphite, teal, amber, dan coral. Ruang lingkup aplikasi ini adalah katalog game dan transaksi beserta pasokan produknya.
+
+
+## Latar Belakang
+
+Proyek ini dikembangkan untuk memenuhi Proyek ETS mata kuliah **Pemrograman Berbasis Kerangka Kerja (PBKK)**, yang mencakup Product Requirements Document (PRD), implementasi aplikasi desktop, serta video presentasi/demo. Aplikasi ini bermanfaat sebagai manajemen transaksi game di dunia maya dengan UI handal untuk memudahkan interaksi pembelian-penjualan
+
+
+## Tujuan pembelajaran
+
+- Mempelajari cara pemrograman C#, penulisan SQL query, dan pembuatan struktur database.
+- Memahami langkah membangun UI berdasarkan Framework WPF dan XAML
 
 ## Fitur Utama
 
@@ -59,6 +70,7 @@ Slashers.WPF/
 └── README.md
 ```
 
+
 ## Persyaratan Sistem
 
 Sebelum menjalankan aplikasi, pastikan komputer sudah memiliki:
@@ -67,6 +79,7 @@ Sebelum menjalankan aplikasi, pastikan komputer sudah memiliki:
 2. Visual Studio dengan workload **.NET desktop development**.
 3. .NET 8 SDK.
 4. Microsoft SQL Server Express LocalDB.
+
 
 ## Cara Menjalankan Aplikasi
 
@@ -109,7 +122,10 @@ Jika koneksi database gagal, periksa instalasi LocalDB dan konfigurasi connectio
 - **PRD yang dapat diedit:** `docs/PRD_Slashers_UTS_PBKK.docx`
 - **Checklist pengujian:** `docs/IMPLEMENTATION_QA.md`
 
-Video presentasi/demo dapat ditambahkan ke repository setelah selesai direkam dan diunggah.
+
+## Screenshot UI
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/c5a3e943-d093-4124-8506-66ed40cf4435" />
+
 
 ## Anggota Kelompok
 
